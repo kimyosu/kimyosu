@@ -1,4 +1,4 @@
-## amo java LOL
+Sou apenas um novato que estuda Java
 
 <!--
 **kimyosu/kimyosu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
